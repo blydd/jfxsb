@@ -1,4 +1,4 @@
-package com.bgt.billsb;
+package com.bgt.jfxsb;
 
 import javafx.application.Application;
 import org.springframework.boot.SpringApplication;
